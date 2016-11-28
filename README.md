@@ -16,3 +16,10 @@ record daily work in Lemon
   99,101,102,
   99,100,101
 3.配合和设计师调节美妆效果。
+
+2016.11.17
+1.triangleTransform()三角变形时，需要注意三角形顶点顺序，程序中BC有除0的风险，会出现黑色。
+2.使用nvwang美妆做口红算法测试。
+
+2016.11.22
+1.donutalk美颜滤镜url更新为http://astickersos.faceu.mobi/donutalk/beaufilter/assets/ ，与faceu地址有区别。 
