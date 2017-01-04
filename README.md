@@ -23,3 +23,6 @@ record daily work in Lemon
 
 2016.11.22
 1.donutalk美颜滤镜url更新为http://astickersos.faceu.mobi/donutalk/beaufilter/assets/ ，与faceu地址有区别。 
+
+2017.01.03
+1.faceU 美型的配置与常用形变的配置有所不同，见“faceU美型”文件夹，用tuer形变更新。
